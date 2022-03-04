@@ -10,4 +10,4 @@ Sistema de control de acceso con tarjetas NFC que está conectado al ordenador m
 
 ## Objetivos del trabajo
 
-Con este proyecto se pretende desarrollar un sistema de control de acceso que registre todos los movimientos para que puedan ser consultados. 
+Con este proyecto se pretende desarrollar un sistema de control de acceso que registre todos los movimientos para que puedan ser consultados. A su vez el sistema permitirá el acceso a sólo algunas tarjetas con el objetivo de mantener un control. 
