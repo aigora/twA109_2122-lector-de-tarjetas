@@ -5,7 +5,7 @@ Sistema de control de acceso con tarjetas NFC que está conectado al ordenador m
 ## Integrantes del equipo
 
 - Natalia Rodíguez Molina. 
-- Manuel Sánchez Francés.
+- Manuel Sánchez Francés. @manusanchezf
 - Lucas Sánchez Solera. @luc-39
 
 ## Objetivos del trabajo
